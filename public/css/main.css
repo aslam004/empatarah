@@ -1,0 +1,21 @@
+.slider h3,
+.slider h5{
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+}
+.head h2,
+.head h6,
+.head p{
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 10.8);
+}
+.team h3{
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);  
+}
+.team1 img{
+    border-radius: 50%;
+}
+.concept{
+    height: 50%;
+}
+section{
+  padding:20px 0;
+}
